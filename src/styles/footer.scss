@@ -1,0 +1,74 @@
+
+#contact{
+  background-color: #022727;
+  height: 28vh;
+  width: 100%;
+  padding: 10px;
+}
+
+
+
+.social {
+    font-size: 45px;
+    // FontAwesome
+    .fa {
+      margin: 20px 10px;
+      position: relative;
+      transition: .3s all ease;
+      top: 0;
+      &.fa-link {color: rgb(253, 255, 255);}
+      &.fa-github-square {color: rgb(253, 255, 255);}
+      &.fa-linkedin-square {color:rgb(253, 255, 255);}
+      &.fa-facebook-square {color: rgb(253, 255, 255);}
+      &.fa-instagram {color:rgb(253, 255, 255);}
+      &.fa-envelope-o {color:rgb(253, 255, 255);}
+      &.fa-phone-square {color:rgb(253, 255, 255);}
+      &:hover {
+        top: -6px;
+      }
+    }
+
+  }
+  .footer-copyright{
+    color:#138b8b;
+    font-size:15px;
+  }
+
+  .footer-font{
+    color:gray;
+     font-size:15px;
+  }
+
+  .contactInfo{
+    font-size: 20px;
+  }
+  .fa-envelope-o {
+    font-size: 25px;
+  }
+
+  
+
+  /*
+  These rules take effect when the browser's width
+  is either 576px or less.
+*/
+@media screen and (max-width: 576px){
+  .social {
+    font-size: 35px;
+  }
+  .footer-copyright{
+    color:#138b8b;
+    font-size:12px;
+  }
+
+  .footer-font{
+    color:gray;
+     font-size:12px;
+  }
+
+  .contactInfo{
+    font-size: 15px;
+  }
+}
+
+
