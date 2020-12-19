@@ -51,7 +51,8 @@ class Skills extends React.Component {
        
              <div className="row no-gutters" id="aboutMe" >
              <div className="col-md-5 p-4 pl-md-4 shadow-lg p-3 mb-5">
-             <img
+             <img                
+                                className= "itpicture"
                                  src={itPicture}
                                  alt="my picture"
                />
