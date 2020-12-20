@@ -56,7 +56,7 @@ class About extends React.Component {
                           Technical Support Specialist with a background in Computer Science, Database Management Certificate Program and Full Stack Development in Coding Bootcamp.
                           </p>
                           <p className="text-dark" style={{textAlign:"left"}}>
-                          For 3 years experience in IT support is wide and varied, including maintaining, troubleshooting, installing and configuring computer hardware, 
+                          For 8 years experience in IT support is wide and varied, including maintaining, troubleshooting, installing and configuring computer hardware, 
                           software, system, networks, printer and scanners. I have also provided IT help desk support and have developed excellent interpersonal skills as a result.
                           </p>
 
