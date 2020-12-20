@@ -53,25 +53,17 @@ class About extends React.Component {
                     
                         <h5 className="text-dark"><h2>I'm</h2> <strong> Kanyarut Pornamnuay</strong></h5>
                           <p className="text-dark mt-5" style={{textAlign:"left"}}>
-                          I graduated with a master degree in Computer Science, and also joined the Database Management Program , Full Stack Development Coding Bootcamp and received a Certificate from University of California. 
+                          Technical Support Specialist with a background in Computer Science, Database Management Certificate Program and Full Stack Development in Coding Bootcamp.
                           </p>
                           <p className="text-dark" style={{textAlign:"left"}}>
-                          For the past 3 years, I have been working as an IT support specialist.
+                          For 3 years experience in IT support is wide and varied, including maintaining, troubleshooting, installing and configuring computer hardware, 
+                          software, system, networks, printer and scanners. I have also provided IT help desk support and have developed excellent interpersonal skills as a result.
                           </p>
-
-                         <p className="text-dark" style={{textAlign:"left"}}>
-                         My experience in IT support is wide and varied, including troubleshooting,
-                         Maintaining, Installing and Configuring computer hardware, software, system, networks, printer and scanners.
-                         </p>
 
                          <p className="text-dark" style={{textAlign:"left"}}>
                          Known as an innovative problem solver passionate about IT professional, with a focus on IT support for long-term professional growth and development.
                          </p>
                          
-                         <p>
-                         I have also provided IT help desk support and have developed excellent interpersonal skills as a result.
-                         I am particularly skilled in explaining technical issues to people with little or no IT expertise.
-                         </p>
                           <br></br>
                           {/* Button to download my resume */}
                              <div>
