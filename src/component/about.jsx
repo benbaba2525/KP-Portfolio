@@ -67,7 +67,7 @@ class About extends React.Component {
                           <br></br>
                           {/* Button to download my resume */}
                              <div>
-                             <AwesomeButton type="secondary" style={{textAlign:"center"}}><a target="_blank"  href = {myResume} style={{color:"white"}} download="Resume 2020 .pdf">My Resume</a></AwesomeButton>
+                             <AwesomeButton type="secondary" style={{textAlign:"center"}}><a target="_blank"  href = {myResume} style={{color:"white"}} download="Resume.pdf">My Resume</a></AwesomeButton>
                              </div>
                   
                     </div>
