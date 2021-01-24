@@ -60,7 +60,10 @@ class Skills extends React.Component {
 
              <div className="col-md-7 p-4 pl-md-4 shadow-lg p-3 mb-5">
              <ul>
+             <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Technology development </li>
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Experienced with both PC and Macintosh computers. </li>
+              <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Experienced with Linux. </li>
+              <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Strong skills in troubleshooting the following:Windows 7/10, Microsoft Office Suite, MacOS, iOS, Internet applications, third party applications. </li>
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Experienced with Microsoft office (Power Point, Word, Excel) and Internet.</li> 
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Knowledge in TCP/IP networking and routing protocols. </li>
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Extensive network device experience.</li> 
