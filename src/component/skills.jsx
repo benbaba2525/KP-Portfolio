@@ -66,7 +66,7 @@ class Skills extends React.Component {
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Strong skills in troubleshooting the following:Windows 7/10, Microsoft Office Suite, MacOS, iOS, Internet applications, third party applications. </li>
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Microsoft Suite (Power Point, Word, Excel).</li> 
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Knowledge in TCP/IP networking and routing protocols also understanding of LAN and WAN management and maintenance protocols. </li>
-              <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Excellent skills in installing, maintaining and integrating network devices.</li> 
+              <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Excellent skills in installing, maintaining, troubleshooting, and integrating hardware, software, and network devices. </li> 
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Profound understanding of LAN and WAN management and maintenance protocols.</li> 
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>Database management, RDBMS.</li>
               <li style={{fontSize:"15px", textAlign:"left", marginLeft:"5px",padding: "5px",color: "white"}}>HTML, CSS, JavaScript, SQL</li>
